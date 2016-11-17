@@ -3,7 +3,6 @@
 */
 body{
 	font-family:arial;
-
 }
 header{
 	
@@ -40,6 +39,9 @@ a{
 	font-size:15px;
 	color:black;
 
+}
+a:link{
+	color:black;
 }
 
 .img2 li{
